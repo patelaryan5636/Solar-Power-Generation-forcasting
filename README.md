@@ -1,1 +1,1 @@
-# Solar-Power-Generation-forcasting
+solar power generation forecasting model for predicting how many generates dc power
